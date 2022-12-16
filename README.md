@@ -4,7 +4,7 @@ Project ini merupakan simple project untuk simulasi pengambilan krs mahasiswa me
 Project ini dibuat menggunakan Framework SpringBoot dengan database PosgreSQL.
 
 Request Method yang ada pada API ini, yaitu:
-Controller Major, GET, POST, PUT, DELETE,
+Controller Major, GET, POST, PUT, DELETE,\n
 Controller Student, GET, POST, PUT, DELETE,
 Controller Course, GET, POST, PUT, DELETE,
 Controller CoursePlan, GET, POST, PUT, DELETE,
