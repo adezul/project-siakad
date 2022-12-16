@@ -1,4 +1,4 @@
-## Project-siakad
+## Project-siakad-krs
 
 Project ini merupakan simple project untuk simulasi pengambilan krs mahasiswa menggunakan Restful api.
 CASE tools yang digunakan:
