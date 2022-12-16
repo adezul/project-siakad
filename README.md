@@ -7,7 +7,7 @@ Request Method yang ada pada API ini, yaitu:<br>
 Controller Major, GET, POST, PUT, DELETE,<br>
 Controller Student, GET, POST, PUT, DELETE,<br>
 Controller Course, GET, POST, PUT, DELETE,<br>
-Controller CoursePlan, GET, POST, PUT, DELETE,<br>
-Controller CoursePlanDetail, GET, POST, PUT, DELETE.
+Controller CoursePlan, GET, POST, DELETE,<br>
+Controller CoursePlanDetail, GET, POST, DELETE.
 
 localhost:7878/swagger-ui/index.html
